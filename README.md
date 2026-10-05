@@ -1,1 +1,1 @@
-<img width="1872" height="860" alt="image" src="https://thumbs.dreamstime.com/b/cute-black-white-illustration-three-geometric-shapes-circle-square-triangle-each-shape-features-smiling-face-416167984.jpg" />
+<img width="100%" height="1000%" alt="image" src="https://thumbs.dreamstime.com/b/cute-black-white-illustration-three-geometric-shapes-circle-square-triangle-each-shape-features-smiling-face-416167984.jpg" />
